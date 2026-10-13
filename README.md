@@ -8,6 +8,16 @@ O FaceAccess é uma aplicação web desenvolvida para modernizar o registro de e
 
 **[CLIQUE AQUI PARA ACESSAR O FACEACCESS](https://faceacess2.up.railway.app/)**
 
+🔐 Credenciais para demonstração
+
+Utilize os dados abaixo para fazer o login no sistema:
+
+E-mail: admin@faceaccess.com
+
+Senha: Admin123
+
+As credenciais são destinadas à demonstração do sistema.
+
 ## ✨ Principais funcionalidades
 
 - 🧠 **Reconhecimento facial com InsightFace:** identificação de funcionários cadastrados para auxiliar no processo de controle de acesso.
